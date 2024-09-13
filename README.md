@@ -1,1 +1,1 @@
-Elective_Recomandation_System
+Elective Recommendation System
